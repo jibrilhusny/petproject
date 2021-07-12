@@ -1,22 +1,22 @@
-# Pet Project
-#### website about my pet, 4july2021
+# Pet project
+#### website about my pet, 8july2021
 #### By Jibril husny
 ## Description
-This is a website about my pet. It is a sample website that am using to learn how to develop a website.
+This is a training static web. I have made this project to improve my coding skills
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+* Clone the repository
+`git clone http`
+* tOpen the project in your favorite editor(vscode/atom)
+* Open project on live server
+
 ## Known Bugs
 No know bugs
 ## Technologies Used
 1. Html 
 2. css
+3. Bootstrap
 ## Support and contact details
-
+Email: jibrilabdikadir004@gmail.com
+phone: 0724033030
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+[MIT](license.txt)
