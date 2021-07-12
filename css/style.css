@@ -1,0 +1,15 @@
+.container {
+    size: 90%;
+}
+
+.container h3 {
+    color: #f7325e;
+    font-family: fantasy;
+    text-align: center;
+    margin-top: 15px;
+}
+
+#tropical {
+    margin: 5px;
+    text-align: justify;
+}
